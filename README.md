@@ -1,2 +1,2 @@
 # basketball
-Using HTML and CSS put together a basketball website with a header containing buttons along with a resizing and positioning text
+Using HTML and CSS put together a basketball website with a header containing buttons along with a resizing and positioning text. An issue I came across was putting the background as an image and preventing the page from overflowing. I could not find the reason as to why the page would scroll side to side even after inspecting each element with the inspector tool. I was able to use the overflow hidden to finally stop having a scroll bar on the page,
