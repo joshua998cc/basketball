@@ -1,0 +1,30 @@
+
+td {
+    border: 0px solid black; height: 80px; text-align: center; font-size: 40px; color: white;
+}
+
+body {
+    background:url(court.jpg)fixed no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1 {
+    position: relative; left: 200px; top: 140px; color: white; font-size: 60px;
+}
+
+.teamButton {
+    position: relative; left: 200px; top: 140px; color: white; cursor: pointer; background-color: black; height: 70px; width: 150px; font-size: 35px;
+}
+
+.fanButton {
+    position: relative; left: 200px; top: 140px; color: white; cursor: pointer; background-color: black; height: 70px; width: 150px; font-size: 25px; margin: 2px; border-radius: 16px;
+}
+
+.teamButton {
+    position: relative; left: 200px; top: 140px; color: white; cursor: pointer; background-color: black; height: 70px; width: 150px; font-size: 25px; margin: 2px; border-radius: 16px;
+}
+
+.tbButton {
+    height: 50px; width: 135px; font-size: 17px; background-color: black; color: white; border-radius: 16px; cursor: pointer;
+}
